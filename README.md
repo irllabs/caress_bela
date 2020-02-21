@@ -27,3 +27,9 @@ The caress_bela should run directly after startup (On/Off switch in the middle o
 - 5V litho battery pack
 
 ### Controls
+
+![caress_bela - controls](https://github.com/irllabs/caress_bela/blob/master/documentation/caress_controls.png "caress_bela - controls")
+
+## Notes
+
+ml.lib is installed in pd-extentions folder if you wish you use any objects in future Bela projects.
