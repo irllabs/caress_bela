@@ -5,8 +5,10 @@
 ![caress_bela - play](https://github.com/irllabs/caress_bela/blob/master/documentation/caress_play.png "caress_bela - play")
 
 ## Installation
+Since the *Caress* is built atop the Bela platform, the first steps require [getting started with the Bela](https://github.com/BelaPlatform/Bela/wiki/Getting-started-with-Bela).   Once you have a Bela up and running:
+
 ### caress
-Bela works by reading a specific folder for project files and external objects.
+Bela works by reading a specific folder for project files and external dependencies/objects.
 
 After logging into your Bela - either through the [Web IDE](http://bela.local) or SSH - Copy both the __caress__ and __pd-externals__ folders into:
 ```
