@@ -20,7 +20,7 @@ The same process can be applied to try out any of the other projects residing in
 
 ## Usage
 The caress_bela should run directly after startup (On/Off switch in the middle of device) if properly connected to all hardware: 
-- MO controller board 
+- [MO controller board](https://github.com/batchku/MO/blob/master/PCBs/MO/.MO-v2-6.brd.lck) 
  
     - 2 x strips
     - 2 x joysticks
