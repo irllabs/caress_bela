@@ -1,6 +1,6 @@
 # Caress_Bela
 ## Description
-Caress piezo-instrument running on Bela via Pd
+*Caress* is an electro-acoustic instrument built that combines the [Bela](http://bela.io) platform, with [Pure Data](http://puredata.info) and a custom made physical instrument.  *Caress* consists of contact microphones with [custom preamps](https://github.com/irllabs/eagle/tree/master/piezo-preamp-tickler), light sensors, joysticks, buttons and knobs.  While PureData offers infinite possibilities with regards to interactive sound, *Caress* focues on a tactile and expressive sound-making expressive enabled by a synthesis approach inspired by the late [David Wessel's work on "control intimacy"](https://www.mitpressjournals.org/doi/pdf/10.1162/014892602320582945) and  [Adrian Freed's work on "resonators"](http://www.richarddudas.com/documents/jehan_freed_dudas_icmc1999.pdf).
 
 ![caress_bela - play](https://github.com/irllabs/caress_bela/blob/master/documentation/caress_play.png "caress_bela - play")
 
