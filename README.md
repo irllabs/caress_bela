@@ -2,6 +2,8 @@
 ## Description
 Caress piezo-instrument running on Bela via Pd
 
+![caress_bela - play](https://github.com/irllabs/caress_bela/blob/master/documentation/caress_play.png "caress_bela - play")
+
 ## Installation
 ### caress
 Bela works by reading a specific folder for project files and external objects.
