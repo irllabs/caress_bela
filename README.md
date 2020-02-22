@@ -7,15 +7,18 @@
 ## Installation
 Since the *Caress* is built atop the Bela platform, the first steps require [getting started with the Bela](https://github.com/BelaPlatform/Bela/wiki/Getting-started-with-Bela).   Once you have a Bela up and running:
 
-### caress
-Bela works by reading a specific folder for project files and external dependencies/objects.
+This repo consists of these folders:
+* Caress: PureData patches for the Caress
+* pd-externals: Required compiled libraries (i.e. "externals") for PureDAta
+* tests_and_tools: Various in-progress tests and tools
+* documentation: Images for this repo
 
-After logging into your Bela - either through the [Web IDE](http://bela.local) or SSH - Copy both the __caress__ and __pd-externals__ folders into:
-```
-/root/Bela/projects
-```
-#### run on boot
-After uploading the files, use the Bela IDE > Settings to set _caress_ as the project to [run on boot](https://github.com/BelaPlatform/Bela/wiki/Running-Bela-projects-automatically-on-boot) 
+
+Bela works by reading a specific folder for project files and external dependencies/objects.  In order to instal Caress:
+
+* Log into the Bela - either through the [Web IDE](http://bela.local) or SSH
+* Copy both the __caress__ and __pd-externals__ folders into `/root/Bela/projects`
+* use the Bela IDE > Settings to set _caress_ as the project to [run on boot](https://github.com/BelaPlatform/Bela/wiki/Running-Bela-projects-automatically-on-boot) 
 
 ### tests_and_tools
 The same process can be applied to try out any of the other projects residing in the _tests_and_tools_ folder (which have been placed there as they aren't required for the main caress patch to run)
